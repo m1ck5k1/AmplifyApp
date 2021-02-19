@@ -34,7 +34,7 @@ build/
 dist/
 node_modules/
 #ref: https://github.com/aws-amplify/amplify-console/issues/1043
-#aws-exports.js
+aws-exports.js
 awsconfiguration.json
 amplifyconfiguration.json
 amplify-build-config.json
